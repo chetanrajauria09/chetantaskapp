@@ -50,6 +50,6 @@ The app displays a user's portfolio holdings with a summary view, including prof
 
 ## 📌 Notes
 
-- **TabBar** and **Segment Control** were skipped per the instructions mentioned in the assignment email.
+- **TabBar** and **Segment Control** were skipped per the instructions.
 - **Offline mode** not implemented as the task did not specify offline expectations. Please share specific requirements if you'd like this feature.
 - Used a clean and scalable folder structure with modular components to support future feature additions.
