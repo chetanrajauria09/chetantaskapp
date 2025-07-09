@@ -24,7 +24,7 @@ The app displays a user's portfolio holdings with a summary view, including prof
 - `MVVM` architecture with loose coupling between View and ViewModel
 - Repository pattern for abstracting data layer
 - Uses `async/await` for networking (no third-party dependencies)
-- Fully programmatic UI using `UIKit` (no Storyboards)
+- Fully programmatic UI using `UIKit` (no Storyboards, Xibs)
 
 ---
 
