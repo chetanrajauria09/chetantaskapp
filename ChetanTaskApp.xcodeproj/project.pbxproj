@@ -1,0 +1,566 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		61C95F422E1D72860090BF54 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 61C95F232E1D72840090BF54 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 61C95F2A2E1D72840090BF54;
+			remoteInfo = ChetanTaskApp;
+		};
+		61C95F4C2E1D72860090BF54 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 61C95F232E1D72840090BF54 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 61C95F2A2E1D72840090BF54;
+			remoteInfo = ChetanTaskApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		61C95F2B2E1D72840090BF54 /* ChetanTaskApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChetanTaskApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		61C95F412E1D72860090BF54 /* ChetanTaskAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChetanTaskAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		61C95F4B2E1D72860090BF54 /* ChetanTaskAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChetanTaskAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		61C95F532E1D72860090BF54 /* Exceptions for "ChetanTaskApp" folder in "ChetanTaskApp" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 61C95F2A2E1D72840090BF54 /* ChetanTaskApp */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		61C95F2D2E1D72840090BF54 /* ChetanTaskApp */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				61C95F532E1D72860090BF54 /* Exceptions for "ChetanTaskApp" folder in "ChetanTaskApp" target */,
+			);
+			path = ChetanTaskApp;
+			sourceTree = "<group>";
+		};
+		61C95F442E1D72860090BF54 /* ChetanTaskAppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ChetanTaskAppTests;
+			sourceTree = "<group>";
+		};
+		61C95F4E2E1D72860090BF54 /* ChetanTaskAppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ChetanTaskAppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		61C95F282E1D72840090BF54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61C95F3E2E1D72860090BF54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61C95F482E1D72860090BF54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		61C95F222E1D72840090BF54 = {
+			isa = PBXGroup;
+			children = (
+				61C95F2D2E1D72840090BF54 /* ChetanTaskApp */,
+				61C95F442E1D72860090BF54 /* ChetanTaskAppTests */,
+				61C95F4E2E1D72860090BF54 /* ChetanTaskAppUITests */,
+				61C95F2C2E1D72840090BF54 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		61C95F2C2E1D72840090BF54 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				61C95F2B2E1D72840090BF54 /* ChetanTaskApp.app */,
+				61C95F412E1D72860090BF54 /* ChetanTaskAppTests.xctest */,
+				61C95F4B2E1D72860090BF54 /* ChetanTaskAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		61C95F2A2E1D72840090BF54 /* ChetanTaskApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 61C95F542E1D72860090BF54 /* Build configuration list for PBXNativeTarget "ChetanTaskApp" */;
+			buildPhases = (
+				61C95F272E1D72840090BF54 /* Sources */,
+				61C95F282E1D72840090BF54 /* Frameworks */,
+				61C95F292E1D72840090BF54 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				61C95F2D2E1D72840090BF54 /* ChetanTaskApp */,
+			);
+			name = ChetanTaskApp;
+			packageProductDependencies = (
+			);
+			productName = ChetanTaskApp;
+			productReference = 61C95F2B2E1D72840090BF54 /* ChetanTaskApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		61C95F402E1D72860090BF54 /* ChetanTaskAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 61C95F592E1D72860090BF54 /* Build configuration list for PBXNativeTarget "ChetanTaskAppTests" */;
+			buildPhases = (
+				61C95F3D2E1D72860090BF54 /* Sources */,
+				61C95F3E2E1D72860090BF54 /* Frameworks */,
+				61C95F3F2E1D72860090BF54 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				61C95F432E1D72860090BF54 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				61C95F442E1D72860090BF54 /* ChetanTaskAppTests */,
+			);
+			name = ChetanTaskAppTests;
+			packageProductDependencies = (
+			);
+			productName = ChetanTaskAppTests;
+			productReference = 61C95F412E1D72860090BF54 /* ChetanTaskAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		61C95F4A2E1D72860090BF54 /* ChetanTaskAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 61C95F5C2E1D72860090BF54 /* Build configuration list for PBXNativeTarget "ChetanTaskAppUITests" */;
+			buildPhases = (
+				61C95F472E1D72860090BF54 /* Sources */,
+				61C95F482E1D72860090BF54 /* Frameworks */,
+				61C95F492E1D72860090BF54 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				61C95F4D2E1D72860090BF54 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				61C95F4E2E1D72860090BF54 /* ChetanTaskAppUITests */,
+			);
+			name = ChetanTaskAppUITests;
+			packageProductDependencies = (
+			);
+			productName = ChetanTaskAppUITests;
+			productReference = 61C95F4B2E1D72860090BF54 /* ChetanTaskAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		61C95F232E1D72840090BF54 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					61C95F2A2E1D72840090BF54 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					61C95F402E1D72860090BF54 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 61C95F2A2E1D72840090BF54;
+					};
+					61C95F4A2E1D72860090BF54 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 61C95F2A2E1D72840090BF54;
+					};
+				};
+			};
+			buildConfigurationList = 61C95F262E1D72840090BF54 /* Build configuration list for PBXProject "ChetanTaskApp" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 61C95F222E1D72840090BF54;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 61C95F2C2E1D72840090BF54 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				61C95F2A2E1D72840090BF54 /* ChetanTaskApp */,
+				61C95F402E1D72860090BF54 /* ChetanTaskAppTests */,
+				61C95F4A2E1D72860090BF54 /* ChetanTaskAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		61C95F292E1D72840090BF54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61C95F3F2E1D72860090BF54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61C95F492E1D72860090BF54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		61C95F272E1D72840090BF54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61C95F3D2E1D72860090BF54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		61C95F472E1D72860090BF54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		61C95F432E1D72860090BF54 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 61C95F2A2E1D72840090BF54 /* ChetanTaskApp */;
+			targetProxy = 61C95F422E1D72860090BF54 /* PBXContainerItemProxy */;
+		};
+		61C95F4D2E1D72860090BF54 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 61C95F2A2E1D72840090BF54 /* ChetanTaskApp */;
+			targetProxy = 61C95F4C2E1D72860090BF54 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		61C95F552E1D72860090BF54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ChetanTaskApp/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.in.ChetanTaskApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		61C95F562E1D72860090BF54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ChetanTaskApp/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.in.ChetanTaskApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		61C95F572E1D72860090BF54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		61C95F582E1D72860090BF54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		61C95F5A2E1D72860090BF54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.in.ChetanTaskAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ChetanTaskApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ChetanTaskApp";
+			};
+			name = Debug;
+		};
+		61C95F5B2E1D72860090BF54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.in.ChetanTaskAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ChetanTaskApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ChetanTaskApp";
+			};
+			name = Release;
+		};
+		61C95F5D2E1D72860090BF54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.in.ChetanTaskAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ChetanTaskApp;
+			};
+			name = Debug;
+		};
+		61C95F5E2E1D72860090BF54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.in.ChetanTaskAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ChetanTaskApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		61C95F262E1D72840090BF54 /* Build configuration list for PBXProject "ChetanTaskApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61C95F572E1D72860090BF54 /* Debug */,
+				61C95F582E1D72860090BF54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		61C95F542E1D72860090BF54 /* Build configuration list for PBXNativeTarget "ChetanTaskApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61C95F552E1D72860090BF54 /* Debug */,
+				61C95F562E1D72860090BF54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		61C95F592E1D72860090BF54 /* Build configuration list for PBXNativeTarget "ChetanTaskAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61C95F5A2E1D72860090BF54 /* Debug */,
+				61C95F5B2E1D72860090BF54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		61C95F5C2E1D72860090BF54 /* Build configuration list for PBXNativeTarget "ChetanTaskAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				61C95F5D2E1D72860090BF54 /* Debug */,
+				61C95F5E2E1D72860090BF54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 61C95F232E1D72840090BF54 /* Project object */;
+}
